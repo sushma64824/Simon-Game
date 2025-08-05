@@ -21,5 +21,5 @@ The *Simon Game* is a classic memory-based game built using *HTML, **CSS, and **
 - JavaScript
 
 ## 👨‍💻 Author
-
-GitHub: [@susim478824](https://github.com/sushm478824)
+sushma singh
+GitHub: [@sushma64824](https://github.com/sushma64824)
